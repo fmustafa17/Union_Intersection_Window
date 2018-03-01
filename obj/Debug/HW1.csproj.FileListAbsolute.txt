@@ -1,0 +1,14 @@
+c:\users\farheezy\documents\visual studio 2015\Projects\HW1\HW1\bin\Debug\HW1.exe.config
+c:\users\farheezy\documents\visual studio 2015\Projects\HW1\HW1\bin\Debug\HW1.exe
+c:\users\farheezy\documents\visual studio 2015\Projects\HW1\HW1\bin\Debug\HW1.pdb
+c:\users\farheezy\documents\visual studio 2015\Projects\HW1\HW1\obj\Debug\HW1.csprojResolveAssemblyReference.cache
+c:\users\farheezy\documents\visual studio 2015\Projects\HW1\HW1\obj\Debug\MainWindow.g.cs
+c:\users\farheezy\documents\visual studio 2015\Projects\HW1\HW1\obj\Debug\App.g.cs
+c:\users\farheezy\documents\visual studio 2015\Projects\HW1\HW1\obj\Debug\HW1_MarkupCompile.cache
+c:\users\farheezy\documents\visual studio 2015\Projects\HW1\HW1\obj\Debug\HW1_MarkupCompile.lref
+c:\users\farheezy\documents\visual studio 2015\Projects\HW1\HW1\obj\Debug\MainWindow.baml
+c:\users\farheezy\documents\visual studio 2015\Projects\HW1\HW1\obj\Debug\HW1.g.resources
+c:\users\farheezy\documents\visual studio 2015\Projects\HW1\HW1\obj\Debug\HW1.Properties.Resources.resources
+c:\users\farheezy\documents\visual studio 2015\Projects\HW1\HW1\obj\Debug\HW1.csproj.GenerateResource.Cache
+c:\users\farheezy\documents\visual studio 2015\Projects\HW1\HW1\obj\Debug\HW1.exe
+c:\users\farheezy\documents\visual studio 2015\Projects\HW1\HW1\obj\Debug\HW1.pdb
